@@ -50,13 +50,13 @@ pip install 'colocar o nome do pacote'
 - Basta importar os módulos de acordo com o que deseja
 
 ```python
-from 'nome do pacote' import 'modolo'
+from 'nome do pacote' import 'módulo'
 ```
 ---
 ## Autor
 Cleiton Machado
 
-## [LinkdIn](https://www.linkedin.com/in/cleiton-machado/)
+#### [LinkdIn](https://www.linkedin.com/in/cleiton-machado/)
 
 
 ## Licença
