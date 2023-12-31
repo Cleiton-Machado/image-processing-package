@@ -1,3 +1,7 @@
+--------------
+charset: utf-8
+--------------
+
 # Desafio: Pacote de Processamento de Imagens
 
 ## Description. 
@@ -43,15 +47,12 @@ pip install -r requirements.txt
 Para a instalação do pacote, basta usar o [pip](https://pip.pypa.io/en/stable/) direcionando para o image-processing-test-package
 
 ```bash
-pip install 'colocar o nome do pacote'
+pip install processing-image-mctech
 ```
 ---
 ## Uso
 - Basta importar os módulos de acordo com o que deseja
 
-```python
-from 'nome do pacote' import 'módulo'
-```
 ---
 ## Autor
 Cleiton Machado
